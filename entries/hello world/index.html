@@ -1,4 +1,9 @@
 <html>
+
+<head>
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
+    <script>
+        let md = /*insert markdown content here*/`
 # Hello world! 
 I am blogging because I want to share my thoughts with the world in a structured and accessible way. 
 I hope you will revisit this blog, or [contact me](mailto:steeven.liu2@gmail.com) if you find any of these articles useful.
@@ -16,11 +21,6 @@ Here are my rules:
 Here are some ideas:
 - TLDRscript. Enable TLDR's so that readers can skip sections they are already familiar with.
 - Structured writing.
-
-<head>
-    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
-    <script>
-        let md = /*tnsert markdown content here*/`
 
         `;
         var converter = new showdown.Converter();
