@@ -7,6 +7,7 @@
             //auto-list files here
         ];
         var converter = new showdown.Converter();
+        let params = new URLSearchParams(window.location.search);
         for (let f of files) {
             let oReq = new XMLHttpRequest();
             //use XHR to fetch

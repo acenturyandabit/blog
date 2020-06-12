@@ -3,11 +3,9 @@
 <head>
     <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
     <script>
-        let files = [
-            //auto-list files here
-"entries_md/hello world.md",
-"entries_md/terminal goals.md",
-        ];
+        let md = /*tnsert markdown content here*/`
+
+        `;
         var converter = new showdown.Converter();
         let params = new URLSearchParams(window.location.search);
         for (let f of files) {

@@ -1,4 +1,4 @@
-# Motivation
+# Terminal goals
 I am going to critique some common terminal goals and state my own terminal goals.
 
 General criticism for common terminal goals:
