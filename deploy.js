@@ -3,6 +3,7 @@ let { execSync } = require("child_process");
 
 fs.readdir("entries", (e, files) => {
     console.log(files);
+    files = files.filter(i => i.match(/.+?\.md$/));
     files = files.map(i => `"entries/${i}",`);
     let lines = String(fs.readFileSync("template.html"));
     lines = lines.split(/\r?\n/g);
