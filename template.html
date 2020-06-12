@@ -8,7 +8,7 @@
         ];
         var converter = new showdown.Converter();
         for (let f of files) {
-            let oReq = XMLHttpRequest()
+            let oReq = new XMLHttpRequest();
             //use XHR to fetch
             oReq.addEventListener("load", () => {
                 let html = converter.makeHtml(oReq.responseText);
@@ -25,7 +25,7 @@
 </head>
 
 <body>
-<h1>Steven's blog</h1>
+    <h1>Steven's blog</h1>
 </body>
 
 </html>
