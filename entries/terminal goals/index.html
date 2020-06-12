@@ -40,21 +40,10 @@ My terminal goals:
 
         `;
         var converter = new showdown.Converter();
-        let params = new URLSearchParams(window.location.search);
-        for (let f of files) {
-            let oReq = new XMLHttpRequest();
-            //use XHR to fetch
-            oReq.addEventListener("load", () => {
-                let html = converter.makeHtml(oReq.responseText);
-                let wrap = document.createElement("div");
-                wrap.innerHTML = html;
-                document.body.append(wrap);
-            });
-            oReq.open("GET", f);
-            oReq.send();
-            //render
-
-        }
+        let html = converter.makeHtml(md);
+        let wrap = document.createElement("div");
+        wrap.innerHTML = html;
+        document.body.append(wrap);
     </script>
 </head>
 
