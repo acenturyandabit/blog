@@ -1,3 +1,28 @@
+"Doublethink means the power of holding two contradictory beliefs in one's mind simultaneously, and accepting both of them."
+
+In George Orwell's 1984, the primary regulation mechanism of the elite members of the authoritarian Ingsoc is Doublethink - the ability to hold two contradictory beliefs simultaneously and accept both. 
+
+Even though Orwell portrays doublespeak as evil, i'd argue that it is essential for our continuation as individuals and as a species. 
+
+The assumptions that this is based on is that A) life ends, someday; B) it is desirable to stay alive; and C) for something to be considered meaningful it must persevere. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # I'm a special snowflake
 Spoilers: I'm not; or at least, not one that necessarily is aligned with your particular needs.
 

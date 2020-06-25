@@ -1,0 +1,30 @@
+# Sustainability
+- Something is sustainable if it adds value to a system.
+- It is difficult for something that is not medium-term sustainable to become long-term sustainable.
+## Asustainable
+- There's an interesting class of activities that satisfy the following 5 criteria:
+    - They prevent harm
+    - The harm is directed at the public
+    - The harm is long term
+    - They do not otherwise produce value (satisfy a 'positive want').
+    - They have a cost.
+- These aren't unsustainable because they do provide value.
+    - However, they aren't medium term sustainable, so they can't achieve sustainability.
+    - I'd call them Asustainable. 
+    - You might think "Can't is a strong word" - and can't is a strong word, but it is supported by strong forces: in particular, game theory.
+- If there's a big problem in the world that hasn't been solved, the necessary actions are likely to fall in this category. Examples include:
+    - Action against Global warming
+    - Reducing Inequality
+    - Mitigating against resource shortages
+    - A system of perfect politics
+- How can we solve these problems as individuals? 
+    - We make the following assumptions:
+        - We cannot reliably influence others' strategies
+        - Everyone else wants to optimise their own return
+        - People are generally similar in their desires.
+    - Then, the actions we can take are:
+        - Think selfish. Think about yourself: what solution to this problem would work for you? 
+            - But don't be antagonistic! If you take enough that you need and don't have to take from others, then don't.
+        - Offer value to others, by solving for everyone. 
+            - The assumption here is that if a solution works for you, it will work for other people.
+            - So, this problem is a potential value chain.
