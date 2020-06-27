@@ -1,0 +1,40 @@
+# To blog or not to blog
+- The objective of this blog post is to formulate a rationale for myself to follow whilst blogging, to make the best use of my time (and your time, dear reader!)
+
+## Assumptions
+- I believe that if a tree falls in a forest and no-one is around to hear it, it has not simply not fallen, but it has never existed in the first place.
+    - Consequently, if no-one reads this blog, it will have never really existed in the first place. 
+    - On the grounds that I would rather do something that has a lasting impact [[see my nihilism post]]; I would like people to read my blog.
+- I believe that dynamic, interactive, social content is better than dead content.
+
+## Strategy
+- How do I make sure that people will read my blog? I need to keep my blog accessible.
+    - Accessible means that people are willing and able to read it.
+        - I will try to ensure people are willing to read my content because it is novel, and adds a new way of thinking or seeing the world.
+            - This means being aware of what domain is already in the public domain.
+            - I will try and research before writing anything. 
+        - I will try to ensure people are able to read my content because its assumptions are clearly laid out and logically arranged.
+            - I do like my lists because it allows me to separate thoughts into individual items, but it may make it harder for you to read.
+                - I will endeavour to add a 'view as paragraphs' button to my sites, then.
+            - I will endeavour to keep my vocabulary within the 1k or so most used words in everyday speech; or otherwise define my terms concretely, for each blog article.
+                - I believe that if one cannot explain a concept in simple words, one has not understood their subject deeply enough.
+    - I also need to keep my blog not inaccessible.
+        - This means putting all criticisms on society onto objects and situations, rather than groups of people.
+            - I like to think I take this approach not just in writing but also in person, because it gives others room to stand next to me rather than opposite me.
+- I will also need to be a good author. 
+    - Kudos to [[http://www.ayothewriter.com/writing-people-read/]] for making me think. Ayodeji, the writer, recommends three things: Be funny, educate people, and inspire people.
+        - Through my years of teaching I have found the first step of teaching is to understand where your students are in their understanding.
+        - As I cannot do this, I am resorting to providing all my working, so that you, dear reader, can pick up where you want.
+        - I think humor detracts from the seriousness of the topic, but I will use rhetoric and storytelling where I find it is appropriate.
+        - In order to inspire people, I need to forge connections and replying. I will endeavour to link to as many articles as I can and hope people do the same to mine.
+- How do I make sure that my blog is dynamic, interactive and social? 
+    - I will try to involve others in my writing, by linking to their articles.
+    - I will always accept feedback on any of my articles and make it easy for others to write feedback to me.
+
+
+## Fun things I would love to implement
+- Paragraph mode, for people who don't like lists.
+- Allow skipping: some people may find what I am writing about to be self-evident, and want to skip some parts.
+- Be well-researched. 
+- Write enough blog articles that they form a strong web that can be navigated by a conversational AI.
+    - Make a blog that people can chat to.

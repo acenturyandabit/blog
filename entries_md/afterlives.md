@@ -1,0 +1,69 @@
+# Afterlives
+
+## Contents
+- In this post, I will present:
+    - My experience in approaching and thinking about death;
+    - A cross-examination of the afterlife argument for objective morality
+    - A possible strategy for creating an afterlife.
+
+## Credits
+- This post was primarily inspired by Stephen Wicklund, who works on the Canonical Debate Lab project, believes in an afterlife, and dreams lucidly. 
+- A number of my arguments for there not being an afterlife come from the comic (SMBC)[https://www.smbc-comics.com/], of which I am a great fan. 
+
+## Approaching death
+- Death is scary. 
+    - Fear is an emotion; emotions are mental shortcuts installed by evolution to help us stay alive.
+    - However, like many other emotions, it is a way of thinking that gets between us and empirical observation and reasoning. 
+- Ever since I had the capacity to seriously think, I have occasionally found myself petrified by the notion of death.
+    - Early on my primary question was 'how would it feel to just not be anymore?'; and I found that itself to be so terrifying that I would be paralysed for hours.
+        - The cure to this came from a few places. One particularly memorable incident was my trying to explain my fear to my brother. 
+            - He said: Why are you afraid of dying? Just because you've never experienced it before? Think about Africa. You've never been to Africa before - are you terrified of it? (I was not.)
+        - I also came to realise that I couldn't ever remember (falling asleep)[https://www.smbc-comics.com/comic/2014-11-17]. 
+            - Why could I trust sleep and not trust death? To remain logically consistent, I would either be terrified of losing consciousness when I sleep; or be comfortable with that same slipping away when my time to die eventually comes. Having not yet discovered a way to remain awake forever, I chose the latter.  
+        - The final nail in the metaphorical coffin for my fear of death was my acceptance of the sheer number of different ways I could die at any given moment. 
+            - I would sometimes find myself in rather precarious situations, slipping on wet floors near sharp cornered tables, accidentally dropping knives while cooking, and so on.
+            - Then there are all manner of cosmological events that could guarantee our deaths: Gamma ray bursts, False vacuums, and the like. 
+            - This, compounded with the important assertion that I should not worry about things outside of my control, helped me put a lid on the catatonia that came with thinking about death.
+
+## A cross-examination of the afterlife argument for objective morality
+- Whether or not there is an afterlife is unknowable, until you die. 
+    - However, how we choose to behave in light of there being or not being an afterlife is up to us in the world of the living.
+    - Hence, the burden I am choosing to prove in the following section is not that there is no afterlife; but rather the existence/non-existence of an afterlife doesn't provide an argument against nihilism (defined as the rejection of any objective morality or sense of meaning in determining our actions).
+- In order to perform this analysis, we will presume an afterlife exists, giving the proof of this existence the benefit of the doubt.
+- Despite not questioning the existence of an afterlife, we will still need to categorise and analyse the possibilities for an afterlife that are presented to us.
+    - Based on my burden to prove, the afterlives we are considering all have some sort of afterlife credit based on a fixed, objective moral system. 
+        - If the afterlife does not have such a credit system and everyone is guaranteed a randomly assigned afterlife, then there is no inherent moral system already.  
+    - A first useful distinction to make is the distinction between experience-preserved afterlives, where your individual experiences are preserved; and experience-reset afterlives (e.g. rebirth, karma-based rebirth, and gaia theories), where you lose your individual experiences, but some part of you remains.
+        - For me, experience-reset afterlives aren't really afterlives since my notion of consciousness includes the lump sum of memories that I carry with me that inform my behaviours and actions. 
+            - Even if you believe in some sort of afterlife credit e.g. karma that you carry between afterlives, there is an argument against acting in the best interest of your successor: alignment.
+                - Aligment refers to whether or not your value systems align with the value system of your afterlife successor. If your afterlife-successor would commit genocide or some other henious act if he were raised in the income bracket that your karma had paid for, you could (happily sin away)[https://www.smbc-comics.com/comic/the-future-2]. 
+            - Hence, it is not necessarily in your best interests to follow the moral rules of your religion to rack up afterlife credits, karma or otherwise, unless we believe that along with afterlife credits, our sense of morality and meaning is passed down to our afterlife selves.
+    - We are now left with experience-preserved (or at least, morality/meaning preserved) afterlives. 
+    - The next distinction to make is between utopian/dystopian afterlives and non-utopian afterlives.
+        - In the utopia/dystopia case, we assume that acting along one set of morals brings you to the utopian afterlife (e.g. christian heaven), where you have no unfulfilled wants; and acting along another set of morals brings you to the dystopian afterlife; thereby tying you to an objective morality and voiding you of your freedom to choose.
+            - A consequence of this assumption is that nothing you do in heaven will ever have any consequence because if it did, you would have started from some point where you had an unfulfilled want to action on.
+                - This means that even if you had some prior sense of meaning and morality that is your own, your ability to achieve it will be nullified in utopian heaven.
+            - Conversely, a dystopian afterlife (from your immorality during your time alive) enforces a state where you are not able to achieve your sense of meaning and morality, by its nature of being eternal torment.
+            - Both of these are similar in that you have no ability to enact your will through your own actions. 
+            - Hence, if you desire the ability to shape the world you live in, both options are hell, in which case you might as well ignore any objective moral constraints. 
+            - If you do not desire the ability to shape the world you live in, then to remain logically consistent you should have no preference for one set of morals or the other, which violates our assumption that you care.
+    - We are now left with the concept of a non-utopian, experience-preserved afterlife, where you get karma points for being moral in your past lives. 
+        - The argument against this scenario is a statistical one: If the world was indeed structured as a non-utopian experience-preserved afterlife, that means it is highly unlikely that you are the first incarnation of yourself. 
+            - If you are not the first incarnation of yourself, by our assumptions even if you didn't have perfect memory of your experiences, you would still have a persistent sense of meaning that is carried out through your life, regardless of external influences.
+            - But isn't this the same as nihilism, where you choose your sense of morality anyway? The only difference is that you believe your sense of morality and meaning is less changeable than someone who does not believe in the afterlife. 
+            - Hence, this approach does not void the assumptions behind nihilism; by admitting that even if there were some universal moral system, one is not obliged to (and indeed unable to change to) follow it. 
+- Overall, I believe the reasoning above is sufficient to show that the presence of an afterlife based around an objective moral system is no argument for the need to adhere to said objective moral system. i.e. - there is no reason not to embrace nihilism and choose your own meaning.
+
+## A strategy for making an afterlife
+- Whether or not we are living in a simulation is a hotly debated topic.
+- However, there is one consideration that we as a species have underthought: Should we live in a simulation?
+    - That is, should we invest time and resources into creating a simulation for everyone to live in?
+- I certainly think so; in fact, I think if it is physically possible we could go a step further, and create our own afterlives. 
+    - What is an afterlife? Essentially, an afterlife is an escape hatch when you die, into some outer world. 
+    - If we created a simulation and moved our brains into diamond jars, we could die in the simulation and then wake up back in the real world. 
+    - Voila, we've created an afterlife for ourselves. 
+- There is a biological assumption here that our brains in our jars don't age, and neither does the hardware supporting our simulation. We definitely have lots of research to do before we can invest in this afterlife of ours. 
+- But if it works, we will be gods.
+
+## Recommended reading
+- (This informative video by Robert Miles)[https://www.youtube.com/watch?v=JRuNA2eK7w0].
