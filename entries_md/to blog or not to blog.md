@@ -1,5 +1,7 @@
-# To blog or not to blog
-- The objective of this blog post is to formulate a rationale for myself to follow whilst blogging, to make the best use of my time (and your time, dear reader!)
+# Rationale for blogging
+- I write blogs.
+- I have a very rich internal narrative that I want to consolidate into information that is useful.
+The objective of this blog post is to formulate a rationale for myself to follow whilst blogging, to make the best use of my time (and your time, dear reader!)
 
 ## Assumptions
 - I believe that if a tree falls in a forest and no-one is around to hear it, it has not simply not fallen, but it has never existed in the first place.
