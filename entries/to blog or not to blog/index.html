@@ -62,6 +62,7 @@ The objective of this blog post is to formulate a rationale for myself to follow
     - Make a blog that people can chat to.
 
         `;
+        showdown.setOption('openLinksInNewWindow', 'true');
         var converter = new showdown.Converter();
         let html = converter.makeHtml(md);
         let wrap = document.createElement("div");

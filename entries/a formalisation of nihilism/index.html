@@ -100,6 +100,7 @@
         - If the afterlife is an extension of the consequences of the present only, and we have no way of returning to our world to tell everyone else (as in any religious heaven/hell concept), then this is what is known as a [Pascal's Mugging](https://www.youtube.com/watch?v=JRuNA2eK7w0), and we can safely ignore any earth-bound religious objective morality.
 
         `;
+        showdown.setOption('openLinksInNewWindow', 'true');
         var converter = new showdown.Converter();
         let html = converter.makeHtml(md);
         let wrap = document.createElement("div");

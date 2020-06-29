@@ -59,11 +59,12 @@
 - So how do we get around this?
     - We can open up with a very clear focus on a specific niche, and then branch out later, much like Uber and Amazon did 
         - But we must keep in mind that when they opened, there were no established businesses which leveraged the power of the internet.
+    - We can operate in a society where there is trust in a single go-to authority, like China. If we spoke Chinese.
     - I would like to do further research on Amazon's model, to see how they broke out.
     - I would like to do further research on Uber, to see how and why they decided to disrupt the Taxi industry, and what analogous industries are ripe for disruption.
 
-
         `;
+        showdown.setOption('openLinksInNewWindow', 'true');
         var converter = new showdown.Converter();
         let html = converter.makeHtml(md);
         let wrap = document.createElement("div");

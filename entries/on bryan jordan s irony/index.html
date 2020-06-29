@@ -150,6 +150,7 @@
 
 
         `;
+        showdown.setOption('openLinksInNewWindow', 'true');
         var converter = new showdown.Converter();
         let html = converter.makeHtml(md);
         let wrap = document.createElement("div");
