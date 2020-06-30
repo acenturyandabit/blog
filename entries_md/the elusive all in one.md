@@ -34,11 +34,15 @@
             - a whole 5 years (from uber in 2009 to uber eats in 2014)
             - (or both!) in order to develop uber eats.
             - Also, neither uber nor uber eats is turning a profit, and it is questionable as to whether they ever will.
+        - We have: WeChat's all-in-one super-app.
+            - Wechat started as a chat app, specifically;
+            - there was no established dominant player (despite a lot of competitors!)
+            - The Chinese government is on Wechat's side.
+            - Wechat has huge teams of devs working on it.
 - Are there any truly lean startups that have become a 'one stop shop for all x'? I don't think so.
-
-- So how do we get around this?
-    - We can open up with a very clear focus on a specific niche, and then branch out later, much like Uber and Amazon did 
-        - But we must keep in mind that when they opened, there were no established businesses which leveraged the power of the internet.
-    - We can operate in a society where there is trust in a single go-to authority, like China. If we spoke Chinese.
-    - I would like to do further research on Amazon's model, to see how they broke out.
-    - I would like to do further research on Uber, to see how and why they decided to disrupt the Taxi industry, and what analogous industries are ripe for disruption.
+## How to get around this
+- We can open up with a very clear focus on a specific niche, and then branch out later, much like Uber and Amazon did 
+    - But we must keep in mind that when they opened, there were no established businesses which leveraged the power of the internet.
+- We can operate in a society where there is trust in a single go-to authority, like China. If we spoke Chinese.
+- I would like to do further research on Amazon's model, to see how they broke out.
+- I would like to do further research on Uber, to see how and why they decided to disrupt the Taxi industry, and what analogous industries are ripe for disruption.
