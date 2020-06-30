@@ -17,6 +17,11 @@
 <body>
     <h2>Steven's blog</h2>
     <script>
+        if (window.location.href.includes("?fbclid")) {
+            window.location.href = window.location.href.split("?")[0];
+        }
+    </script>
+    <script>
         let md = /*insert markdown content here*/`
 
         `;
