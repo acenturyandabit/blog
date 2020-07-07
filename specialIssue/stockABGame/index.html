@@ -22,9 +22,9 @@
                 renderAnother();
             }
         }
-        rq.open("GET", "data.json", true);
+        rq.open("GET", "filteredSteepWMeta.json", true);
         rq.send();
-        let thinkWentUp;
+        let wentUp;
         function renderAnother() {
             let randomEntry = Math.floor(Math.random() * allData.length);
             randomEntry = allData[randomEntry];
@@ -33,17 +33,20 @@
             document.querySelector("#eventDate").innerHTML = randomEntry.niceTime;
             //update links
             document.querySelector("#information").innerHTML = randomEntry.articles.map(i => `<p><a href=${i}>${i}</a></p>`).join("\n");
-            thinkWentUp = randomEntry.zscore > 0;
+            wentUp = randomEntry.zscore > 0;
             totalGuesses++;
         }
         function guess(thinkWentUp) {
             if (!(thinkWentUp ^ wentUp)) {
                 totalRight++;
                 alert(`Congratulations! You guessed right! Your score is ${totalRight}/${totalGuesses}`);
-                renderAnother();
+            } else {
+                alert(`You didn't get it right :( Your score is ${totalRight}/${totalGuesses}.`);
             }
+            renderAnother();
         }
     </script>
+    <title>Special Issue: Can you outwit the stock market?</title>
 </head>
 
 <body>
