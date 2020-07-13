@@ -1,0 +1,76 @@
+<html>
+
+<head>
+    <script src="https://unpkg.com/showdown/dist/showdown.min.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-170910573-1"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-170910573-1');
+    </script>
+    <!--Title is auto-filled-->
+    <title>
+ An alternative to the Socialist miracle: Universal Basic Resource
+    </title>
+</head>
+
+<body>
+    <h2>Steven's blog</h2>
+    <script>
+        if (window.location.href.includes("?fbclid")) {
+            window.location.href = window.location.href.split("?")[0];
+        }
+    </script>
+    <script>
+        let md = /*insert markdown content here*/`
+# An alternative to the Socialist miracle: Universal Basic Resource
+- This post assumes that:
+    - You are familiar with the harms of capitalism;
+        - If you want a refresher, and you dont mind a bit of melodrama, I recommend [this video](https://www.youtube.com/watch?v=vG37wwhbS88).
+    - You are familiar with socialism's definition of upper and lower class as
+        - upper class = people who make their income by returns on factors of production
+        - lower class = people who sell their labour (whether skilled or unskilled).
+
+## The socialist miracle
+- For the sake of this article, we will define a miracle as an event that is rather unlikely but it would be great if it happened.
+- Socialism depends on a miracle, that one day the working class will coordinate, rise, and realise that they shouldn't be fighting each other and sieze the means of production, despite:
+    - being worked to the brink of exhaustion;
+    - mass media and cultural control, driving a culture of competition;
+    - the fact that even a university group project of 4 people can't have an aligned vision.
+- Miracles are necessary to change the system, because capitalism is nash equilibrium stable; i.e. no individual has an incentive to deviate from participating in their role in capitalism in the medium term without suffering some sort of loss.
+
+## The miracle for Universal Basic Resource (and why its more realistic)
+- Socialism advocates for state ownership of factors of production.
+    - Universal Basic Resource is the opposite of socialism in this regard: it believes we can provide a minimal set of factors of production to the lower class, so that every individual can sustain themselves.
+- Lower Class Erasure's miracle is a new technology that is simulatenously able to replicate itself, as well as provide for the basic needs of an individual.
+- Why is LCA more realistic than socialism?
+    - It preserves private ownership, which folds nicely into the current cultural paradigm;
+    - It requires altruism at the individual scale; rather than coordination at the collective scale;
+    - It aligns with the modern train of thought that innovation improves quality of life;
+    - Socialism has been tried before; and despite immediate benefits, it is hard to maintain a state that is not corruptible.
+    - Self-replication ensures that if such a unit is owned by any individual with a generous heart, there will not be a limited supply of the factors of production.
+
+
+## Shortcomings of UBR
+- Firstly, is it really practical to create a self-replicating device?
+    - One must recognise that there are a limited set of resources available to us as a species: a limited amount of metals like copper and iron.
+    - It may also be dangerous to operate self-replicating machines on a micro scale, because grey goo scenarios suck.
+- UBR does not address market failure; i.e. it will still fail to provide goods like national defence, public healthcare and streetlamps. A government is still necessary.
+- UBR assumes that inividuals are homogenous and have relatively constant needs.
+    - This can be fixed by creating the system with a little 'room for extra', to allow for individual expression.
+- We still need a miracle! There still needs to be someone who is able to create such a system and share it with everyone, whilst maintaining a full workload as a participant in the capitalist system.
+
+        `;
+        showdown.setOption('openLinksInNewWindow', 'true');
+        var converter = new showdown.Converter();
+        let html = converter.makeHtml(md);
+        let wrap = document.createElement("div");
+        wrap.innerHTML = html;
+        document.body.append(wrap);
+    </script>
+</body>
+
+</html>
